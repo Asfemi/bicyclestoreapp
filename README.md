@@ -66,4 +66,8 @@ GitHub: github.com/Asfemi
 
 Thank you for checking out the Bicycle Store App project! I hope you find it informative and visually appealing.
 
+## Atrributions
+- this work was inspired by the beautiful designs of YI LI
+https://dribbble.com/coreyliyi/shots
+
 Happy coding!
